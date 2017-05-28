@@ -1,0 +1,22 @@
+{
+  "name": "googlemap",
+  "version": "1.0.0",
+  "description": "Test driving the Google map API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/googlemap.git"
+  },
+  "author": "rahmona henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/googlemap/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/googlemap#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
